@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/yongho2157?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--
 **yongho2157/yongho2157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
